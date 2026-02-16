@@ -1,7 +1,7 @@
 import time
 import pyautogui
 
-time.sleep(10800)
+time.sleep(11800)
 pyautogui.keyDown("win")
 pyautogui.press("d")
 pyautogui.keyUp("win")
